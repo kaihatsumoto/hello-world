@@ -1,2 +1,5 @@
 # hello-world
-Hello world repository
+
+今日は！
+
+「kaihatsumo」は自主的なソフト開発者です。 オープンソースや Webプログラミングやロボット工学などに興味があります。
